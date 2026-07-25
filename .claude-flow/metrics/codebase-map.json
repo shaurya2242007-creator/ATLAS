@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-07-25T19:05:33.316Z",
+  "projectRoot": "C:\\Users\\shaur\\atlas",
+  "structure": {
+    "hasPackageJson": true,
+    "hasTsConfig": true,
+    "hasClaudeConfig": true,
+    "hasClaudeFlow": true
+  },
+  "scannedAt": 1785006333316
+}
